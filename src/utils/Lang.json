@@ -1,0 +1,24 @@
+{
+    "en":{
+        "welcomeMessage": "Welcome!" ,
+        "normalMessage" : "Hope u like it",
+        "greetMessage" : "have a grt day .",
+        "endMessage" : " thank you",
+        "usersStatMessage": "<studentCount> users are learing in this session."
+     },
+    "mr":{
+        "welcomeMessage":" स्वागत आहे !",
+        "normalMessage" : "तुम्हाला ते आवडेल अशी आशा आहे",
+        "greetMessage" : "तुमचा दिवस आनंदात जावो.",
+        "endMessage" : " धन्यवाद",
+        "usersStatMessage":"या सत्रात <studentCount> वापरकर्ते शिकत आहेत."
+
+    },
+    "hi":{ 
+        "welcomeMessage":" स्वागत है !",
+        "normalMessage" : "आशा है आपको यह पसंद है",
+        "greetMessage" : "आपका दिन मंगलमय हो |",
+        "endMessage" : "धन्यवाद ",
+        "usersStatMessage":"इस सत्र में <studentCount> उपयोगकर्ता सीख रहे हैं।"
+    }
+}
